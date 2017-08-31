@@ -1,4 +1,5 @@
 extern void print(char *);
+extern void scrollup(unsigned char *);
 
 void _start(void)
 {
